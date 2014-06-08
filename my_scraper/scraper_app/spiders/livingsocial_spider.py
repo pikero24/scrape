@@ -44,3 +44,8 @@ class LivingSocialSpider(BaseSpider):
         	for field, xpath in self.item_fields.iteritems():
         		loader.add_xpath(field,xpath)
         	yield loader.load_item()
+
+
+
+
+        	

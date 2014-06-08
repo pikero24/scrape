@@ -10,6 +10,7 @@ class LivingSocialDeal(Item):
     # original_price = Field()
     # price = Field()
 
+#
 # deal = LivingSocialDeal(title="$20 off yoga classes", category="health")
 # print deal
 # print deal['title']
